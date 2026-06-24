@@ -52,6 +52,7 @@ The business lacked visibility into:
 - A few locations contributed most bookings.
 
 ## Files
+```text
 Rapido-Ride-Analytics
 │
 ├── Dataset
@@ -67,13 +68,14 @@ Rapido-Ride-Analytics
 │   └── Rapido_Analytics_Presentation.pptx
 │
 └── README.md
+```
 
 
 ## Dashboard Preview
 ![Rapido Dashboard](dashboard1.png)
-![Rapido Dashboard](dashboard2.png)
+![Rapido Dashboard](dahsboard2.png)
 ![Rapido Dashboard](dashboard3.png)
-![Rapido Dashboard](dashboard4.png)
+![Rapido Dashboard](dashborad4.png)
 
 ## Author
 
