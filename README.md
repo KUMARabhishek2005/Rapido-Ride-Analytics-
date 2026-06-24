@@ -70,8 +70,8 @@ Rapido-Ride-Analytics
 
 
 ## Dashboard Preview
-
-
+![Rapido Dashboard](dashboard1.png)
+![Rapido Dashboard](dashboard2.png)![Rapido Dashboard](dashboard3.png)![Rapido Dashboard](dashboard4.png)
 
 ## Author
 
